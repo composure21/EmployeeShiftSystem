@@ -1,0 +1,6 @@
+@EmployeeShiftSystem_HostAddress = http://localhost:5198
+
+GET {{EmployeeShiftSystem_HostAddress}}
+Accept: application/json
+
+###
